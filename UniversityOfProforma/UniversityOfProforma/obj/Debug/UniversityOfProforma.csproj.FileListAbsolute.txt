@@ -1,0 +1,7 @@
+C:\Users\cbayley\Git\PU\UniversityOfProforma\UniversityOfProforma\bin\Debug\UniversityOfProforma.exe.config
+C:\Users\cbayley\Git\PU\UniversityOfProforma\UniversityOfProforma\bin\Debug\UniversityOfProforma.exe
+C:\Users\cbayley\Git\PU\UniversityOfProforma\UniversityOfProforma\bin\Debug\UniversityOfProforma.pdb
+C:\Users\cbayley\Git\PU\UniversityOfProforma\UniversityOfProforma\obj\Debug\UniversityOfProforma.csprojResolveAssemblyReference.cache
+C:\Users\cbayley\Git\PU\UniversityOfProforma\UniversityOfProforma\obj\Debug\UniversityOfProforma.csproj.CoreCompileInputs.cache
+C:\Users\cbayley\Git\PU\UniversityOfProforma\UniversityOfProforma\obj\Debug\UniversityOfProforma.exe
+C:\Users\cbayley\Git\PU\UniversityOfProforma\UniversityOfProforma\obj\Debug\UniversityOfProforma.pdb
