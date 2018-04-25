@@ -1,0 +1,4 @@
+C:\Users\cbayley\Git\PU\UniversityOfProforma\StudentApp\obj\Debug\netcoreapp2.0\StudentApp.csprojResolveAssemblyReference.cache
+C:\Users\cbayley\Git\PU\UniversityOfProforma\StudentApp\obj\Debug\netcoreapp2.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\cbayley\Git\PU\UniversityOfProforma\StudentApp\obj\Debug\netcoreapp2.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\cbayley\Git\PU\UniversityOfProforma\StudentApp\obj\Debug\netcoreapp2.0\StudentApp.AssemblyInfo.cs

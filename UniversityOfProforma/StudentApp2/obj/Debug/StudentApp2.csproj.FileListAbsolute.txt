@@ -1,0 +1,7 @@
+C:\Users\cbayley\Git\PU\UniversityOfProforma\StudentApp2\obj\Debug\StudentApp2.csprojResolveAssemblyReference.cache
+C:\Users\cbayley\Git\PU\UniversityOfProforma\StudentApp2\obj\Debug\StudentApp2.csproj.CoreCompileInputs.cache
+C:\Users\cbayley\Git\PU\UniversityOfProforma\StudentApp2\bin\Debug\StudentApp2.exe.config
+C:\Users\cbayley\Git\PU\UniversityOfProforma\StudentApp2\bin\Debug\StudentApp2.exe
+C:\Users\cbayley\Git\PU\UniversityOfProforma\StudentApp2\bin\Debug\StudentApp2.pdb
+C:\Users\cbayley\Git\PU\UniversityOfProforma\StudentApp2\obj\Debug\StudentApp2.exe
+C:\Users\cbayley\Git\PU\UniversityOfProforma\StudentApp2\obj\Debug\StudentApp2.pdb
